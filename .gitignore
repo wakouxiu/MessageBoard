@@ -5,3 +5,8 @@
 *.user
 *.sdf
 *.suo
+Debug/
+users.txt
+messages.txt
+*.vcxproj.filters
+*.vcxproj
